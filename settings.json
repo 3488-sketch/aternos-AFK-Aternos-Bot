@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ammarottothekin-I6cr.aternos.me",
-    "port": 31665,
+    "ip": "Ammarottothekin.aternos.me",
+    "port": 24339,
     "version": "",
     "try-creative": false
   },
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
